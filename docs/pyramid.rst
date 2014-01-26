@@ -26,10 +26,33 @@ speed right away:
 Main Documentation
 ------------------
 
+Stable branch : version 1.4.5 (latest)
++++++++++++++++++++++++++++++++++++++++++++++
+
 * `Pyramid latest documentation </projects/pyramid/en/latest/>`_ (`latest PDF
   <http://media.readthedocs.org/pdf/pyramid/latest/pyramid.pdf>`_) (`latest Epub
   <http://media.readthedocs.org/epub/pyramid/latest/pyramid.epub>`_) - narrative and API
   documentation for Pyramid's latest version, 1.4.5, the current stable release.
+
+Development branch : version 1.5 (master)
+++++++++++++++++++++++++++++++++++++++++++++++++
+
+* `Pyramid development documentation </projects/pyramid/en/master/>`_ - narrative and API
+  documentation for Pyramid's unreleased in-development version.
+
+Tutorials and cookbooks
++++++++++++++++++++++++
+
+* `The Pyramid Tutorials
+  </projects/pyramid_tutorials/en/latest/>`_ presents
+  tutorial resources for Pyramid.
+
+* `The Pyramid Cookbook
+  </projects/pyramid_cookbook/en/latest/>`_ presents
+  topical, practical usages of Pyramid.  The cookbook is unfinished.
+
+Branches history
+++++++++++++++++
 
 * `Pyramid documentation 1.5 </projects/pyramid/en/1.5-branch/>`_ (`1.5 PDF
   <http://media.readthedocs.org/pdf/pyramid/1.5-branch/pyramid.pdf>`_) (`1.5 Epub
@@ -61,16 +84,6 @@ Main Documentation
   <http://media.readthedocs.org/epub/pyramid/1.0-branch/pyramid.epub>`_) - narrative and API
   documentation for Pyramid's 1.0 version.
 
-* `Pyramid development documentation </projects/pyramid/en/master/>`_ - narrative
-  and API documentation for Pyramid's unreleased in-development version.
-
-* `The Pyramid Tutorials
-  </projects/pyramid_tutorials/en/latest/>`_ presents
-  tutorial resources for Pyramid.
-
-* `The Pyramid Cookbook
-  </projects/pyramid_cookbook/en/latest/>`_ presents
-  topical, practical usages of Pyramid.  The cookbook is unfinished.
 
 Pyramid Add-On Documentation
 ----------------------------
